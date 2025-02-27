@@ -1,18 +1,12 @@
-                               🙂🙂🙂 ***CRUD CON JAVA PARA INSUMOS TECNOLOGICOS***🙂🙂🙂
---------------------------------------------------------------------------------------------------------------------------------
-Este proyecto fue realizado como parte de un trabajo en Java,
-cuyo objetivo era desarrollar un sistema de gestión de
-productos, proveedores y ventas para una empresa de insumos tecnológicos,
-específicamente productos como computadores, monitores, entre otros.
---------------------------------------------------------------------------------------------------------------------------------
-Lenguajes utilizados:
--Java
--MySQL
---------------------------------------------------------------------------------------------------------------------------------
-Este programa permite realizar las operaciones básicas de un CRUD, las cuales incluyen:
--Crear un producto en el inventario.
--Leer productos en base a su identificador único.
--Actualizar productos mediante su identificador único.
--Borrar productos mediante su identificador único.
---------------------------------------------------------------------------------------------------------------------------------
-Cabe destacar que este proyecto corresponde a la primera fase, ya que posteriormente fue adaptado a diferentes lenguajes... 🙂🙂🙂
+                               🙂🙂🙂 CRUD CON JAVA PARA INSUMOS TECNOLÓGICOS 🙂🙂🙂
+Este proyecto fue desarrollado como parte de un trabajo en Java, con el objetivo de crear un sistema de gestión de productos, proveedores y ventas para una empresa de insumos tecnológicos. En esta primera fase, el sistema permite administrar productos como computadores, monitores y otros dispositivos.
+📌 Lenguajes utilizados:
+Java
+MySQL
+🛠 Funcionalidades del programa:
+Este software implementa las operaciones fundamentales de un CRUD, permitiendo:
+✅ Crear productos en el inventario.
+✅ Leer productos en base a su identificador único.
+✅ Actualizar productos mediante su identificador único.
+✅ Borrar productos mediante su identificador único.
+💡 Este proyecto representa la primera fase del desarrollo, ya que posteriormente fue adaptado a diferentes lenguajes. 🙂🙂🙂
